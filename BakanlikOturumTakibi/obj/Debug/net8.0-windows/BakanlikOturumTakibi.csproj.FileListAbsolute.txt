@@ -1,0 +1,16 @@
+C:\Users\cybut\source\repos\BakanlikOturumTakibi\BakanlikOturumTakibi\bin\Debug\net8.0-windows\BakanlikOturumTakibi.exe
+C:\Users\cybut\source\repos\BakanlikOturumTakibi\BakanlikOturumTakibi\bin\Debug\net8.0-windows\BakanlikOturumTakibi.deps.json
+C:\Users\cybut\source\repos\BakanlikOturumTakibi\BakanlikOturumTakibi\bin\Debug\net8.0-windows\BakanlikOturumTakibi.runtimeconfig.json
+C:\Users\cybut\source\repos\BakanlikOturumTakibi\BakanlikOturumTakibi\bin\Debug\net8.0-windows\BakanlikOturumTakibi.dll
+C:\Users\cybut\source\repos\BakanlikOturumTakibi\BakanlikOturumTakibi\bin\Debug\net8.0-windows\BakanlikOturumTakibi.pdb
+C:\Users\cybut\source\repos\BakanlikOturumTakibi\BakanlikOturumTakibi\obj\Debug\net8.0-windows\BakanlikOturumTakibi.Form1.resources
+C:\Users\cybut\source\repos\BakanlikOturumTakibi\BakanlikOturumTakibi\obj\Debug\net8.0-windows\BakanlikOturumTakibi.csproj.GenerateResource.cache
+C:\Users\cybut\source\repos\BakanlikOturumTakibi\BakanlikOturumTakibi\obj\Debug\net8.0-windows\BakanlikOturumTakibi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cybut\source\repos\BakanlikOturumTakibi\BakanlikOturumTakibi\obj\Debug\net8.0-windows\BakanlikOturumTakibi.AssemblyInfoInputs.cache
+C:\Users\cybut\source\repos\BakanlikOturumTakibi\BakanlikOturumTakibi\obj\Debug\net8.0-windows\BakanlikOturumTakibi.AssemblyInfo.cs
+C:\Users\cybut\source\repos\BakanlikOturumTakibi\BakanlikOturumTakibi\obj\Debug\net8.0-windows\BakanlikOturumTakibi.csproj.CoreCompileInputs.cache
+C:\Users\cybut\source\repos\BakanlikOturumTakibi\BakanlikOturumTakibi\obj\Debug\net8.0-windows\BakanlikOturumTakibi.dll
+C:\Users\cybut\source\repos\BakanlikOturumTakibi\BakanlikOturumTakibi\obj\Debug\net8.0-windows\refint\BakanlikOturumTakibi.dll
+C:\Users\cybut\source\repos\BakanlikOturumTakibi\BakanlikOturumTakibi\obj\Debug\net8.0-windows\BakanlikOturumTakibi.pdb
+C:\Users\cybut\source\repos\BakanlikOturumTakibi\BakanlikOturumTakibi\obj\Debug\net8.0-windows\BakanlikOturumTakibi.genruntimeconfig.cache
+C:\Users\cybut\source\repos\BakanlikOturumTakibi\BakanlikOturumTakibi\obj\Debug\net8.0-windows\ref\BakanlikOturumTakibi.dll
